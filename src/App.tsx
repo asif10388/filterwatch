@@ -6,7 +6,7 @@ function App() {
     <>
       <Header />
       <div>
-        <h1 className="text-3xl font-bold underline">Hello MY ASS NIGGA!</h1>
+        <h1 className="text-3xl font-bold underline">Hello THIS SILLY WORLD</h1>
       </div>
     </>
   );
