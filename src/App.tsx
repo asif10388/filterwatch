@@ -6,7 +6,9 @@ function App() {
     <>
       <Header />
       <div>
-        <h1 className="text-3xl font-bold underline">Hello THIS SILLY WORLD</h1>
+        <h1 className="text-3xl font-bold underline">
+          Hello THIS SILLY WORLD AND SILLY STUPID
+        </h1>
       </div>
     </>
   );
